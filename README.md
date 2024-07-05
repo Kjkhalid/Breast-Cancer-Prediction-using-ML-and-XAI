@@ -24,4 +24,4 @@ deployment and accessibility, allowing users to input data and obtain prediction
 along with explanations for the model's reasoning. The XAI implementation and 
 website development aim to promote understanding and trust in the model's 
 predictions, ultimately supporting informed decision-making in breast cancer 
-diagnosis and treatment
+diagnosis and treatment.
